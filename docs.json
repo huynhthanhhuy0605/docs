@@ -8,6 +8,21 @@
     "dark": "#4C2889"
   },
   "favicon": "/favicon.svg",
+  "seo": {
+    "canonical": "https://docs.qrdyai.com/",
+    "metatags": {
+      "description": "Image to Frames - Convert any image into custom frames for Canva with one click. Access 8,168+ premium frames or create your own. Perfect for social media posts, map art, text to frames, and more.",
+      "keywords": "image to frame canva, trace image to frame, custom frame maker, frame mask svg canva, cut image into frame canva, canva frames, image to frames, convert image to frame",
+      "og:title": "Image to Frames - Create Custom Frames for Canva",
+      "og:description": "Convert any image into custom frames for Canva with one click. Access 8,168+ premium frames. Perfect for social media, map art, and creative designs.",
+      "og:image": "/images/image-to-frames/image_to_frame_canva_demo_2.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Image to Frames - Create Custom Frames for Canva",
+      "twitter:description": "Convert any image into custom frames for Canva with one click. Access 8,168+ premium frames.",
+      "twitter:image": "/images/image-to-frames/image_to_frame_canva_demo_2.png"
+    }
+  },
   "navigation": {
     "tabs": [
       {
@@ -60,8 +75,5 @@
    ]
   },
   "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify"
-    }
   }
 }

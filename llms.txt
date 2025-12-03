@@ -1,0 +1,81 @@
+# QRDY Documentation - Image to Frames
+
+> Image to Frames is a powerful Canva app that converts images into custom frames with one click. This documentation helps users learn how to use Image to Frames to create custom frames for Canva designs, access premium frame libraries, and create stunning visual content.
+
+## About Image to Frames
+
+Image to Frames is a Canva app that instantly converts any image (PNG, JPG, or SVG) into a custom frame. Users can convert images with one click, browse 8,168+ premium frames, or create their own custom frames. Perfect for social media posts, map art, text to frames, double exposure effects, and more.
+
+**Key Features:**
+- One-click image to frame conversion
+- Access to 8,168+ premium frames
+- Three ways to use: tap image in Canva, upload file, or import from frame library
+- Fully automatic conversion - no manual editing needed
+- Supports PNG, SVG, and JPG formats
+- Pro subscription required for all features
+
+## Main Documentation Pages
+
+### Getting Started
+- /image-to-frames/what-is-image-to-frames : Introduction to Image to Frames - what it is, how it works, and what you can do
+- /image-to-frames/getting-started : Step-by-step guide to install and use Image to Frames in Canva. Includes three methods to create frames
+- /image-to-frames/create-frame-from-image : Guide to convert images into frames with one click. Fully automatic conversion process
+
+### Using Frames
+- /image-to-frames/using-frame-library : Browse and download from 8,168+ premium frames. Search by tags and import frames into Canva
+- /image-to-frames/using-frames-in-canva : Complete guide to using frames in Canva designs. Import frames, add images, and create professional designs
+
+### Advanced Topics
+- /image-to-frames/pro-features : Pro subscription benefits including unlimited conversions, premium frame library access, and all future features
+- /image-to-frames/use-cases : Creative use cases including text to frames, map art, social media posts, double exposure effects, puzzle games
+- /image-to-frames/faq : Frequently asked questions about Pro subscription, free trial, features, Canva integration, and troubleshooting
+
+## Key Topics and Keywords
+
+**Primary Keywords:**
+- image to frame canva
+- trace image to frame
+- custom frame maker
+- frame mask svg canva
+- cut image into frame canva
+- convert image to frame
+- canva frames
+- image to frames
+
+**Use Cases:**
+- Text to frames: Convert text images into individual character frames
+- Map art: Transform country maps into artwork with embedded images
+- Social media posts: Create unique frames for Instagram, Facebook, TikTok
+- Double exposure: Create professional double exposure effects
+- Puzzle games: Design interactive puzzle pieces for Facebook games
+- Product mockups: Showcase products with custom-shaped frames
+- Wedding invitations: Create elegant personalized invitations
+
+## Important Information
+
+**Pro Subscription:**
+- Annual subscription required (free users cannot access any features)
+- Includes unlimited conversions, 8,168+ premium frames, all future updates
+- Students and teachers can get free 1-year Pro subscription at https://qrdyai.com/studentpack
+
+**How to Use:**
+1. Install Image to Frames app in Canva
+2. Choose method: tap image in design, upload file, or import from library
+3. Click convert - fully automatic
+4. Use frame in Canva design
+
+**Important Notes:**
+- Frames downloaded from library must be imported into Image to Frames app in Canva (not just uploaded as regular file)
+- Supports PNG, SVG, and JPG formats
+- Conversion is fully automatic - no manual tracing or editing needed
+
+## Sitemap
+
+For complete sitemap, visit: https://docs.qrdyai.com/sitemap.xml
+
+## Contact
+
+Support: support@qrdynamic.xyz
+Frame Store: https://qrdynamic.xyz/imagetoframe-in-canva
+Student Pack: https://qrdyai.com/studentpack
+
