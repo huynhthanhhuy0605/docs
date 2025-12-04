@@ -1,0 +1,193 @@
+---
+title: "n8n Integration"
+description: "Learn how to integrate NoteMe with n8n workflows. Automate note creation from various sources. Get your token from NoteMe settings and set up the integration."
+---
+
+Integrate NoteMe with n8n to automatically create notes from your workflows. Capture notes from various sources and sync them all to your NoteMe mobile app.
+
+## Overview
+
+The NoteMe n8n integration allows you to create notes automatically from your n8n workflows. Perfect for capturing data, reminders, or information from various automated processes.
+
+<Info>
+This integration requires a NoteMe token. You'll need to log in to [noteme.qrdyai.com](https://noteme.qrdyai.com), go to settings, and copy your token before setting up the integration in n8n.
+</Info>
+
+## Prerequisites
+
+- A NoteMe account (create at [noteme.qrdyai.com](https://noteme.qrdyai.com))
+- An n8n instance (self-hosted or n8n cloud)
+- Basic knowledge of n8n workflows
+
+## Getting your NoteMe token
+
+<Steps>
+<Step title="Log in to NoteMe web">
+Visit [noteme.qrdyai.com](https://noteme.qrdyai.com) and log in to your account.
+</Step>
+
+<Step title="Go to settings">
+Navigate to your account settings section in the web interface.
+</Step>
+
+<Step title="Select token">
+Find the token section in settings and select your token (or create a new one if needed).
+</Step>
+
+<Step title="Copy token">
+Copy the token. You'll need to paste this token into n8n to authenticate the integration.
+
+<Warning>
+Keep your token secure. Don't share it publicly or commit it to version control.
+</Warning>
+</Step>
+</Steps>
+
+## Setting up n8n integration
+
+<Steps>
+<Step title="Open n8n">
+Log in to your n8n instance and create a new workflow or open an existing one.
+</Step>
+
+<Step title="Add NoteMe node">
+Search for "NoteMe" in the node library and add the NoteMe node to your workflow.
+</Step>
+
+<Step title="Configure authentication">
+Paste your NoteMe token (copied from settings) into the authentication settings of the NoteMe node in n8n.
+</Step>
+
+<Step title="Set up note creation">
+Configure the node to create notes with:
+- Note content (from previous nodes or static text)
+- Tags (optional)
+- Reminder date/time (optional)
+- Links (optional)
+</Step>
+
+<Step title="Test workflow">
+Run a test to ensure notes are being created correctly in your NoteMe account.
+</Step>
+</Steps>
+
+## Use cases for automation
+
+<CardGroup cols={2}>
+<Card title="Email to notes" icon="envelope">
+Automatically create notes from important emails. Extract key information and save to NoteMe.
+</Card>
+
+<Card title="Calendar reminders" icon="calendar">
+Sync calendar events to NoteMe reminders. Never miss an important meeting or deadline.
+</Card>
+
+<Card title="Form submissions" icon="form">
+Convert form submissions into notes. Capture leads, feedback, or requests automatically.
+</Card>
+
+<Card title="Social media mentions" icon="hashtag">
+Create notes from social media mentions or messages. Track important conversations.
+</Card>
+
+<Card title="Task management" icon="check">
+Sync tasks from other tools to NoteMe. Centralize all your reminders in one place.
+</Card>
+
+<Card title="Data monitoring" icon="chart">
+Create notes when specific data conditions are met. Get notified about important changes.
+</Card>
+</CardGroup>
+
+## Example workflows
+
+### Email to Note
+
+<Steps>
+<Step title="Trigger on email">
+Set up an email trigger in n8n to detect new emails matching certain criteria.
+</Step>
+
+<Step title="Extract information">
+Use n8n nodes to extract relevant information from the email (subject, sender, body).
+</Step>
+
+<Step title="Create note">
+Pass the extracted information to the NoteMe node to create a note automatically.
+</Step>
+
+<Step title="Add tags">
+Tag the note based on email criteria (e.g., "work", "personal", "urgent").
+</Step>
+</Steps>
+
+### Calendar sync
+
+<Steps>
+<Step title="Connect calendar">
+Connect your calendar (Google Calendar, Outlook, etc.) to n8n.
+</Step>
+
+<Step title="Monitor events">
+Set up a workflow to monitor new calendar events or upcoming appointments.
+</Step>
+
+<Step title="Create reminders">
+Automatically create NoteMe reminders for calendar events, syncing dates and times.
+</Step>
+</Steps>
+
+## Best practices
+
+<CardGroup cols={2}>
+<Card title="Use tags for organization" icon="tags">
+Always tag automated notes so you can distinguish them from manually created notes.
+</Card>
+
+<Card title="Set appropriate reminders" icon="bell">
+Configure reminder times that make sense for the type of note being created.
+</Card>
+
+<Card title="Test workflows" icon="flask">
+Test your workflows thoroughly before deploying to production.
+</Card>
+
+<Card title="Monitor note creation" icon="eye">
+Regularly check your NoteMe app to ensure automated notes are being created correctly.
+</Card>
+</CardGroup>
+
+## Troubleshooting
+
+<AccordionGroup>
+<Accordion title="Authentication failed">
+Double-check your token. Make sure you copied it correctly from NoteMe settings. Go back to [noteme.qrdyai.com](https://noteme.qrdyai.com) settings and copy the token again if needed.
+</Accordion>
+
+<Accordion title="Notes not appearing">
+Check your n8n workflow execution logs to see if there are any errors. Verify that the NoteMe node is configured correctly.
+</Accordion>
+
+<Accordion title="Token not working">
+Make sure you copied the token correctly from NoteMe settings. Verify that you're using the correct token and that your NoteMe account is active. Some features may require a Pro subscription.
+</Accordion>
+</AccordionGroup>
+
+## Documentation updates
+
+<Note>
+Detailed n8n integration documentation and node specifications will be available soon. Check back for updates on API endpoints and advanced configuration options.
+</Note>
+
+## Related guides
+
+<CardGroup cols={2}>
+<Card title="Getting Started" icon="rocket" href="/noteme/getting-started">
+Learn how to set up NoteMe.
+</Card>
+
+<Card title="Mobile App Guide" icon="mobile" href="/noteme/mobile-app">
+Understand how notes sync to your mobile app.
+</Card>
+</CardGroup>
+

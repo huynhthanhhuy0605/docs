@@ -1,6 +1,6 @@
-# QRDY Documentation - Image to Frames
+# QRDY Documentation
 
-> Image to Frames is a powerful Canva app that converts images into custom frames with one click. This documentation helps users learn how to use Image to Frames to create custom frames for Canva designs, access premium frame libraries, and create stunning visual content.
+> QRDY provides powerful tools for Canva users and general productivity. This documentation covers Image to Frames (custom frame creation for Canva) and NoteMe (note-taking and reminder system).
 
 ## About Image to Frames
 
@@ -69,6 +69,75 @@ Image to Frames is a Canva app that instantly converts any image (PNG, JPG, or S
 - Supports PNG, SVG, and JPG formats
 - Conversion is fully automatic - no manual tracing or editing needed
 
+## About NoteMe
+
+NoteMe is a note-taking and reminder system that helps users capture everything they need to remember in one place. Users can create notes from mobile app, Canva, or automation workflows (n8n), and access them all from the mobile app.
+
+**Key Features:**
+- Create notes and reminders with AI assistance
+- Mobile app (iOS, Android, Web) for quick note-taking
+- Canva App integration for project notes (Pro required)
+- n8n integration for automated note creation
+- Tag organization and powerful search
+- Calendar view for reminders
+- Cross-platform sync
+
+**Platforms:**
+- Mobile App: iOS, Android, Web at https://noteme.qrdyai.com
+- Canva App: Available in Canva (Pro subscription required)
+- n8n Integration: Automate note creation from workflows
+
+## Main Documentation Pages - NoteMe
+
+### Getting Started
+- /noteme/what-is-noteme : Introduction to NoteMe - what it is, three ways to use it (mobile, Canva, n8n), and key features
+- /noteme/getting-started : Step-by-step guide to set up NoteMe account, download mobile app, and start capturing notes
+
+### Platform Guides
+- /noteme/mobile-app : Complete guide to mobile app features - creating notes, setting reminders, using tags, saving links, calendar view
+- /noteme/canva-app : Guide to using NoteMe in Canva - creating project notes, checklists, reference links (Pro required)
+- /noteme/n8n-integration : Setup guide for n8n integration - getting API token, configuring workflows, automating note creation
+
+### Advanced Topics
+- /noteme/use-cases : Real-world use cases - quick note-taking, appointment reminders, project organization, cross-platform capture
+- /noteme/faq : Frequently asked questions about features, pricing, mobile app, Canva integration, n8n automation, troubleshooting
+
+## Key Topics and Keywords - NoteMe
+
+**Primary Keywords:**
+- note taking app canva
+- reminder app mobile
+- ghi chú nhắc việc
+- canva notes integration
+- note app with reminders
+- cross-platform notes
+- automated note taking
+- note app automation
+
+**Use Cases:**
+- Quick note-taking on the go
+- Appointment and task reminders
+- Project organization in Canva
+- Email to notes automation
+- Calendar sync and reminders
+- Form submission to notes
+- Cross-platform note capture
+
+## Important Information - NoteMe
+
+**Pricing:**
+- Free plan available with limited number of notes
+- Pro plan includes unlimited notes, Canva App access, advanced features
+- Pricing varies by platform - visit https://noteme.qrdyai.com for current pricing
+
+**Platforms:**
+- Mobile App: iOS, Android, Web - available at https://noteme.qrdyai.com/redirect?go=download
+- Canva App: Requires Pro subscription
+- n8n Integration: Requires API token from NoteMe settings
+
+**Key Concept:**
+NoteMe helps users "send everything you need to remember to yourself" - from manual input to automation - and always reminds you at the right time.
+
 ## Sitemap
 
 For complete sitemap, visit: https://docs.qrdyai.com/sitemap.xml
@@ -76,6 +145,7 @@ For complete sitemap, visit: https://docs.qrdyai.com/sitemap.xml
 ## Contact
 
 Support: support@qrdynamic.xyz
-Frame Store: https://qrdynamic.xyz/imagetoframe-in-canva
+Image to Frames: https://qrdynamic.xyz/imagetoframe-in-canva
+NoteMe: https://noteme.qrdyai.com
 Student Pack: https://qrdyai.com/studentpack
 

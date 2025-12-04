@@ -47,6 +47,28 @@
             }
           }
         ]
+      },
+      {
+        "tab": "NoteMe",
+        "groups": [
+          {
+            "group": "NoteMe",
+            "pages": [
+              "noteme/what-is-noteme",
+              "noteme/getting-started",
+              "noteme/mobile-app",
+              "noteme/canva-app",
+              "noteme/n8n-integration",
+              "noteme/use-cases",
+              "noteme/faq"
+            ],
+            "primary": {
+              "type": "button",
+              "label": "Download NoteMe",
+              "href": "https://noteme.qrdyai.com/redirect?go=download"
+            }
+          }
+        ]
       }
     ]
   },
