@@ -95,8 +95,9 @@ NoteMe is a note-taking and reminder system that helps users capture everything 
 
 ### Platform Guides
 - /noteme/mobile-app : Complete guide to mobile app features - creating notes, setting reminders, using tags, saving links, calendar view
+- /noteme/get-free-calendar-maker-code : Special offer - download NoteMe mobile app, create a reminder, enable notifications, and receive a free 1-month Calendar Maker code via notification within 24 hours
 - /noteme/canva-app : Guide to using NoteMe in Canva - creating project notes, checklists, reference links (Pro required)
-- /noteme/n8n-integration : Setup guide for n8n integration - getting API token, configuring workflows, automating note creation
+- /noteme/n8n-integration : Setup guide for n8n integration - getting token from settings, configuring workflows, automating note creation
 
 ### Advanced Topics
 - /noteme/use-cases : Real-world use cases - quick note-taking, appointment reminders, project organization, cross-platform capture
@@ -138,6 +139,13 @@ NoteMe is a note-taking and reminder system that helps users capture everything 
 **Key Concept:**
 NoteMe helps users "send everything you need to remember to yourself" - from manual input to automation - and always reminds you at the right time.
 
+**Special Offer - Calendar Maker:**
+- Download NoteMe mobile app and create a reminder
+- Enable notifications (required!)
+- Receive free 1-month Calendar Maker code via notification within 24 hours
+- Code applies only to 1-month Calendar Maker subscription plan
+- Calendar Maker: Create monthly, weekly, or custom calendars in Canva - https://qrdynamic.xyz/calendarmaker-in-canva
+
 ## Sitemap
 
 For complete sitemap, visit: https://docs.qrdyai.com/sitemap.xml
@@ -147,5 +155,6 @@ For complete sitemap, visit: https://docs.qrdyai.com/sitemap.xml
 Support: support@qrdynamic.xyz
 Image to Frames: https://qrdynamic.xyz/imagetoframe-in-canva
 NoteMe: https://noteme.qrdyai.com
+Calendar Maker: https://qrdynamic.xyz/calendarmaker-in-canva
 Student Pack: https://qrdyai.com/studentpack
 
