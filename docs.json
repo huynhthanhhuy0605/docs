@@ -79,6 +79,11 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Try Image to Frames",
+      "href": "https://www.qrdynamic.xyz/imagetoframe-in-canva"
+    },
     "links": [
       {
         "label": "Support",

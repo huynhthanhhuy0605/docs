@@ -289,15 +289,21 @@ Complete user object with all associated data.
 
 #### Frames for images
 
-Wrap all images in frames:
+Wrap all images in frames. **Important**: Images must not exceed 50% of viewport height while maintaining their aspect ratio:
 
 <Frame>
-<img src="/images/dashboard.png" alt="Main dashboard showing analytics overview" />
+<img src="/images/dashboard.png" alt="Main dashboard showing analytics overview" style={{maxHeight: '50vh', width: 'auto', height: 'auto', objectFit: 'contain'}} />
 </Frame>
 
 <Frame caption="The analytics dashboard provides real-time insights">
-<img src="/images/analytics.png" alt="Analytics dashboard with charts" />
+<img src="/images/analytics.png" alt="Analytics dashboard with charts" style={{maxHeight: '50vh', width: 'auto', height: 'auto', objectFit: 'contain'}} />
 </Frame>
+
+**Image display rules:**
+- Maximum height: 50vh (50% of viewport height)
+- Maintain aspect ratio: Use `width: 'auto'` and `height: 'auto'`
+- Use `objectFit: 'contain'` to preserve aspect ratio
+- Always include descriptive alt text for accessibility
 
 #### Videos
 
