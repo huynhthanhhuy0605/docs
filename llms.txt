@@ -4,11 +4,11 @@
 
 ## About Image to Frames
 
-Image to Frames is a Canva app that instantly converts any image (PNG, JPG, or SVG) into a custom frame. Users can convert images with one click, browse 8,168+ premium frames, or create their own custom frames. Perfect for social media posts, map art, text to frames, double exposure effects, and more.
+Image to Frames is a Canva app that instantly converts any image (PNG, JPG, or SVG) into a custom frame. Users can convert images with one click, browse 40,000+ premium frames and growing, or create their own custom frames. Perfect for social media posts, map art, text to frames, double exposure effects, and more.
 
 **Key Features:**
 - One-click image to frame conversion
-- Access to 8,168+ premium frames
+- Access to 40,000+ premium frames and growing
 - Three ways to use: tap image in Canva, upload file, or import from frame library
 - Fully automatic conversion - no manual editing needed
 - Supports PNG, SVG, and JPG formats
@@ -22,7 +22,7 @@ Image to Frames is a Canva app that instantly converts any image (PNG, JPG, or S
 - /image-to-frames/create-frame-from-image : Guide to convert images into frames with one click. Fully automatic conversion process
 
 ### Using Frames
-- /image-to-frames/using-frame-library : Browse and download from 8,168+ premium frames. Search by tags and import frames into Canva
+- /image-to-frames/using-frame-library : Browse and download from 40,000+ premium frames and growing. Search by tags and import frames into Canva
 - /image-to-frames/using-frames-in-canva : Complete guide to using frames in Canva designs. Import frames, add images, and create professional designs
 
 ### Advanced Topics
@@ -55,7 +55,7 @@ Image to Frames is a Canva app that instantly converts any image (PNG, JPG, or S
 
 **Pro Subscription:**
 - Annual subscription required (free users cannot access any features)
-- Includes unlimited conversions, 8,168+ premium frames, all future updates
+- Includes unlimited conversions, 40,000+ premium frames and growing, all future updates
 - Students and teachers can get free 1-year Pro subscription at https://qrdyai.com/studentpack
 
 **How to Use:**
