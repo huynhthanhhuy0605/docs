@@ -24,9 +24,10 @@
     }
   },
   "navigation": {
-    "tabs": [
+    "products": [
       {
-        "tab": "Image to Frames",
+        "product": "Canva Tools",
+        "icon": "canva",
         "groups": [
           {
             "group": "Image to Frames",
@@ -45,12 +46,7 @@
               "label": "Open in Canva",
               "href": "https://qrdynamic.xyz/imagetoframe-in-canva"
             }
-          }
-        ]
-      },
-      {
-        "tab": "NoteMe",
-        "groups": [
+          },
           {
             "group": "NoteMe",
             "pages": [
