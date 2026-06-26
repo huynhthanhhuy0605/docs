@@ -150,5 +150,10 @@
    ]
   },
   "footer": {
+  },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-RJVTBLWXL5"
+    }
   }
 }
