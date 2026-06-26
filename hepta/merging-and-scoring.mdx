@@ -1,0 +1,52 @@
+---
+title: "Merging, Scoring & Stones in Hepta"
+description: "Master merging in Hepta: merge matching pieces, learn why drop direction keeps a tile's score, how the ripple works, and how to break stones for more stars."
+---
+
+In Hepta, merging is simple to start and rewarding to think about. You combine matching pieces, but *which* piece you drop onto which one changes your score — so every move is a small calculation. This page explains how merging works, why direction matters, how the ripple scores points, and how stones break.
+
+<Frame>
+<img src="/images/hepta/gameplay.png" alt="A Hepta level in play, showing the board grid, the target piece at the top, and colored pieces" style={{maxHeight: '50vh', width: 'auto', height: 'auto', objectFit: 'contain'}} />
+</Frame>
+
+## How merging works
+
+You merge two pieces that share the **same color and the same shape** by dragging one onto the other. They combine into the next piece up, evolving one step along the way to the target piece at the top of the level. Pieces that differ in color or shape will not merge, so look for true matches.
+
+## Direction matters
+
+When two pieces merge, the tile you **drop ONTO keeps its score (points)**. That makes direction a real choice: dragging piece A onto piece B is not the same as dragging B onto A. Before you merge, decide which tile you want to keep — every move is a small calculation, and planning your drops is the heart of a high score.
+
+<Tip>
+When you want to protect a tile's points, make it the one you **drop onto**, not the one you drag away.
+</Tip>
+
+## The ripple effect
+
+Each merge **ripples to the 4 tiles around it** — up, down, left, and right — scoring points on those neighboring tiles. A single well-placed merge can score across several tiles at once, so it pays to notice what sits beside the pieces you are about to combine.
+
+## Breaking stones
+
+**Stones** are obstacles on the board, and there is no special button to clear them. Instead, the ripple does the work: you **break a stone by merging on a tile next to it**, and the ripple cracks it. Set up a merge beside a stone, and the same move that scores points also clears your path.
+
+<Note>
+Stones break through the ripple from a nearby merge — you never need a separate tool or button to remove them.
+</Note>
+
+## Scoring and stars
+
+Solving a level in **fewer moves earns more stars**. Because direction and the ripple both shape your score, planning efficient merges is how you climb from one star toward three. Your best result on each level is remembered, so you can always come back and improve.
+
+For the full breakdown of stars and how levels unlock, see [Levels & Stars](/hepta/levels-and-stars).
+
+## Related
+
+<CardGroup cols={2}>
+<Card title="Tips & Strategies" icon="lightbulb" href="/hepta/tips-and-strategies">
+Plan smarter merges and ripples to clear levels in fewer moves.
+</Card>
+
+<Card title="How to Play" icon="puzzle-piece" href="/hepta/how-to-play">
+Review the core loop, the seven shapes, and the Hint button.
+</Card>
+</CardGroup>

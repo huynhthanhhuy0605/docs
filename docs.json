@@ -70,6 +70,48 @@
         ]
       },
       {
+        "product": "Hepta",
+        "icon": "puzzle-piece",
+        "groups": [
+          {
+            "group": "Get started",
+            "pages": [
+              "hepta/what-is-hepta",
+              "hepta/getting-started"
+            ],
+            "primary": {
+              "type": "button",
+              "label": "Get Hepta",
+              "href": "https://hepta.qrdyai.com/"
+            }
+          },
+          {
+            "group": "How to play",
+            "pages": [
+              "hepta/how-to-play",
+              "hepta/merging-and-scoring",
+              "hepta/levels-and-stars"
+            ]
+          },
+          {
+            "group": "Hearts & plans",
+            "pages": [
+              "hepta/hearts",
+              "hepta/unlimited-play"
+            ]
+          },
+          {
+            "group": "Tips & help",
+            "pages": [
+              "hepta/tips-and-strategies",
+              "hepta/settings-and-languages",
+              "hepta/faq",
+              "hepta/troubleshooting"
+            ]
+          }
+        ]
+      },
+      {
         "product": "Changelog",
         "icon": "clock-rotate-left",
         "pages": [
