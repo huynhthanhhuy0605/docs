@@ -1,6 +1,6 @@
 # QRDY Documentation
 
-> QRDY provides powerful tools for Canva users and general productivity. This documentation covers Image to Frames (custom frame creation for Canva) and NoteMe (note-taking and reminder system).
+> QRDY provides powerful tools for Canva users and general productivity. This documentation covers Image to Frames (custom frame creation for Canva), Text to Frames (fill text with images in Canva), Calendar Maker (generate calendars in Canva), and NoteMe (note-taking and reminder system).
 
 ## About Image to Frames
 
@@ -20,6 +20,7 @@ Image to Frames is a Canva app that instantly converts any image (PNG, JPG, or S
 - /image-to-frames/what-is-image-to-frames : Introduction to Image to Frames - what it is, how it works, and what you can do
 - /image-to-frames/getting-started : Step-by-step guide to install and use Image to Frames in Canva. Includes three methods to create frames
 - /image-to-frames/create-frame-from-image : Guide to convert images into frames with one click. Fully automatic conversion process
+- /image-to-frames/how-to-add-photo-to-frame-canva : Step-by-step guide to add a photo to a frame in Canva on desktop and mobile, add borders, fix frames not working, and create custom frames
 
 ### Using Frames
 - /image-to-frames/using-frame-library : Browse and download from 40,000+ premium frames and growing. Search by tags and import frames into Canva
@@ -153,6 +154,47 @@ NoteMe helps users "send everything you need to remember to yourself" - from man
 - Receive Student Pack verification code
 - Continue verification process at https://qrdyai.com/studentpack
 - Helps receive notifications about new packages, launch dates, and exclusive student codes
+
+## About Text to Frames
+
+Text to Frames is a Canva app that turns any word into Canva frames, one frame per letter, so users can fill text with an image or pattern. It supports custom fonts, borders, and blur effects, and keeps the letters editable as real frames.
+
+**Key Features:**
+- Convert any word into letter-shaped frames in one step
+- Fill text with images or patterns by dropping a photo into the letters
+- Choose any font and weight before converting
+- Add borders around letters and blur to the image inside
+- Faster alternative to the manual frame/clipping-mask method
+
+### Main Documentation Pages - Text to Frames
+- /text-to-frames/what-is-text-to-frames : Introduction to Text to Frames - what it is, what you can do, and why use it
+- /text-to-frames/how-to-fill-text-with-image-canva : Step-by-step guide to fill text with an image in Canva using letter frames, plus the manual method, fonts, borders, and blur
+
+**Primary Keywords:**
+- how to fill text with image in canva
+- fill text with image canva
+- image in text canva
+- text to frames
+
+## About Calendar Maker
+
+Calendar Maker is a Canva app that generates a calendar for any month, year, or custom date range in seconds. Users can create monthly, weekly, and yearly calendars, build printable calendars (including 2026), then customize and print them.
+
+**Key Features:**
+- Generate accurate calendar grids for any month or year
+- Custom date ranges, not just full months
+- Monthly, weekly, and yearly layouts
+- Printable calendars to customize and print at home or order
+
+### Main Documentation Pages - Calendar Maker
+- /calendar-maker/what-is-calendar-maker : Introduction to Calendar Maker - what it is, what you can do, and why use it
+- /calendar-maker/how-to-make-calendar-in-canva : Step-by-step guide to make a calendar in Canva, generate custom date ranges, build a printable 2026 calendar, and print
+
+**Primary Keywords:**
+- canva calendar maker
+- how to create a calendar in canva
+- printable monthly calendar 2026
+- custom calendar maker
 
 ## Sitemap
 

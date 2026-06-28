@@ -35,6 +35,7 @@
               "image-to-frames/what-is-image-to-frames",
               "image-to-frames/getting-started",
               "image-to-frames/create-frame-from-image",
+              "image-to-frames/how-to-add-photo-to-frame-canva",
               "image-to-frames/using-frame-library",
               "image-to-frames/using-frames-in-canva",
               "image-to-frames/pro-features",
@@ -65,6 +66,25 @@
               "type": "button",
               "label": "Download NoteMe",
               "href": "https://noteme.qrdyai.com/redirect?go=download"
+            }
+          },
+          {
+            "group": "Text to Frames",
+            "pages": [
+              "text-to-frames/what-is-text-to-frames",
+              "text-to-frames/how-to-fill-text-with-image-canva"
+            ]
+          },
+          {
+            "group": "Calendar Maker",
+            "pages": [
+              "calendar-maker/what-is-calendar-maker",
+              "calendar-maker/how-to-make-calendar-in-canva"
+            ],
+            "primary": {
+              "type": "button",
+              "label": "Open Calendar Maker",
+              "href": "https://qrdynamic.xyz/calendarmaker-in-canva"
             }
           }
         ]
