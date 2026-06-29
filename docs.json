@@ -33,6 +33,7 @@
             "group": "Image to Frames",
             "pages": [
               "image-to-frames/what-is-image-to-frames",
+              "image-to-frames/image-to-frames-complete-guide",
               "image-to-frames/getting-started",
               "image-to-frames/create-frame-from-image",
               "image-to-frames/how-to-add-photo-to-frame-canva",
@@ -72,13 +73,27 @@
             "group": "Text to Frames",
             "pages": [
               "text-to-frames/what-is-text-to-frames",
+              "text-to-frames/text-to-frames-complete-guide",
               "text-to-frames/how-to-fill-text-with-image-canva"
             ]
+          },
+          {
+            "group": "Frames Lab",
+            "pages": [
+              "frames-lab/frames-lab-complete-guide",
+              "frames-lab/how-to-make-custom-frames-in-canva"
+            ],
+            "primary": {
+              "type": "button",
+              "label": "Open Frames Lab",
+              "href": "https://qrdynamic.xyz/frameslab-in-canva"
+            }
           },
           {
             "group": "Calendar Maker",
             "pages": [
               "calendar-maker/what-is-calendar-maker",
+              "calendar-maker/calendar-maker-complete-guide",
               "calendar-maker/how-to-make-calendar-in-canva"
             ],
             "primary": {
@@ -97,6 +112,7 @@
             "group": "Get started",
             "pages": [
               "hepta/what-is-hepta",
+              "hepta/hepta-complete-guide",
               "hepta/getting-started"
             ],
             "primary": {
@@ -128,6 +144,24 @@
               "hepta/faq",
               "hepta/troubleshooting"
             ]
+          }
+        ]
+      },
+      {
+        "product": "QrdyCraft",
+        "icon": "palette",
+        "groups": [
+          {
+            "group": "QrdyCraft",
+            "pages": [
+              "qrdy-craft/what-is-qrdycraft",
+              "qrdy-craft/qrdy-craft-complete-guide"
+            ],
+            "primary": {
+              "type": "button",
+              "label": "Open QrdyCraft",
+              "href": "https://qrdyai.com/craft"
+            }
           }
         ]
       },
