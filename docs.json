@@ -101,6 +101,12 @@
               "label": "Open Calendar Maker",
               "href": "https://qrdynamic.xyz/calendarmaker-in-canva"
             }
+          },
+          {
+            "group": "Guides",
+            "pages": [
+              "guides/best-canva-apps-for-frames"
+            ]
           }
         ]
       },
