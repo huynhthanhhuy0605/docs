@@ -94,7 +94,8 @@
             "pages": [
               "calendar-maker/what-is-calendar-maker",
               "calendar-maker/calendar-maker-complete-guide",
-              "calendar-maker/how-to-make-calendar-in-canva"
+              "calendar-maker/how-to-make-calendar-in-canva",
+              "calendar-maker/how-to-make-a-weekly-schedule-in-canva"
             ],
             "primary": {
               "type": "button",
@@ -163,7 +164,8 @@
               "qrdy-craft/what-is-qrdycraft",
               "qrdy-craft/qrdy-craft-complete-guide",
               "qrdy-craft/how-to-print-sticker-by-number-decals-at-home",
-              "qrdy-craft/how-to-play-paint-by-numbers-online"
+              "qrdy-craft/how-to-play-paint-by-numbers-online",
+              "qrdy-craft/how-to-make-paint-by-numbers-from-a-photo"
             ],
             "primary": {
               "type": "button",
