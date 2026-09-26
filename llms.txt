@@ -28,6 +28,7 @@ Image to Frames is a Canva app that instantly converts any image (PNG, JPG, or S
 
 ### Advanced Topics
 - /image-to-frames/pro-features : Pro subscription benefits including unlimited conversions, premium frame library access, and all future features
+- /image-to-frames/free-for-students-redeem-code : How students and teachers redeem a student code to unlock Image to Frames Pro for free (open in Canva, Free for students & teachers, enter code at checkout)
 - /image-to-frames/use-cases : Creative use cases including text to frames, map art, social media posts, double exposure effects, puzzle games
 - /image-to-frames/faq : Frequently asked questions about Pro subscription, free trial, features, Canva integration, and troubleshooting
 
