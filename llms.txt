@@ -190,6 +190,7 @@ Calendar Maker is a Canva app that generates a calendar for any month, year, or 
 ### Main Documentation Pages - Calendar Maker
 - /calendar-maker/what-is-calendar-maker : Introduction to Calendar Maker - what it is, what you can do, and why use it
 - /calendar-maker/how-to-make-calendar-in-canva : Step-by-step guide to make a calendar in Canva, generate custom date ranges, build a printable 2026 calendar, and print
+- /calendar-maker/free-for-students-redeem-code : How students and teachers get Calendar Maker free with the Qrdy Edu Pack (Unlock to use, scroll to Edu Pack section, Already have a code, apply code at checkout)
 
 **Primary Keywords:**
 - canva calendar maker
